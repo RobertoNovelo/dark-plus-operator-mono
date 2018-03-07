@@ -1,0 +1,22 @@
+{
+    "name": "dark-plus-operator-mono",
+    "displayName": "Dark+ Operator Mono Theme",
+    "description": "Dark+ With Some Italics",
+    "version": "0.0.1",
+    "publisher": "robertonovelo",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark+ Operator Mono",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark+ Operator Mono-color-theme.json"
+            }
+        ]
+    }
+}
